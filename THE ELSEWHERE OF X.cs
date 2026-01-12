@@ -1,5 +1,8 @@
 using System;
-using Vegas;
+using System.Collections.Generic;
+using System.Windows.Forms;
+
+using ScriptPortal.Vegas;
 
 public class EntryPoint
 {
